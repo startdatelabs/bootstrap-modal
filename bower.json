@@ -1,10 +1,10 @@
 {
   "name": "bootstrap-modal",
   "description": "Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.",
-  "version": "2.2.5",
+  "version": "2.2.7",
   "main": ["js/bootstrap-modal.js", "js/bootstrap-modalmanager.js", "css/bootstrap-modal.css"],
   "dependencies": {
-    "bootstrap": ">=2.3.0"
+    "bootstrap": ">=3.3.0"
   },
   "url": "https://github.com/jschr/bootstrap-modal.git",
   "author": "Jordan Schroter",
